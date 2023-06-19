@@ -17,3 +17,5 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 
 
 *fork modification*
+Forks seem quite interessting.
+But why Master & no Main branch?
